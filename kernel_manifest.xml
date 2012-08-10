@@ -10,4 +10,5 @@
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="gh" revision="ics" />
   <project path="kernel/samsung/msm8660-common" name="AOKP/android_kernel_samsung_msm8660-common" remote="gh" revision="ics" />
   <project path="kernel/samsung/tuna" name="CyanogenMod/android_kernel_samsung_tuna" remote="gh" revision="ics" />
+  <project path="kernel/samsung/d2dcm" name="kbc-developers/sc06d_kernel_ics" remote="gh" revision="android-linux-3.0-master" />
 </manifest>
